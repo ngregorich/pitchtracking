@@ -50,7 +50,7 @@ Note: the autocorrelation algorithm as implemented is looking for several peak f
 
 ![bass tracking](https://raw.githubusercontent.com/ngregorich/pitchtracking/master/bass_frequency_40_to_42_hz.png)
 
-Wow, it worked! The first thing we can say is that this bass guitar may be out of tune, based on the offset between the blue tracked bass line and the solid red low open E line. We also see a small peak in frequency at the beginning of the sample when the string is plucked and a gradual decrease in frequency as the string looses energy over time. At the very end of the note being played, we see oscillation and / or noise added to the tracked signal. This also seems as expected, as the string loses energy it is easy to imagine its oscillation as becoming more chaotic or less stable.
+Wow, it worked! The first thing we can say is that this bass guitar may be out of tune, based on the offset between the blue tracked bass line and the solid red low open E line. We also see a small peak in frequency at the beginning of the sample when the string is plucked and a gradual decrease in frequency as the string loses energy over time. At the very end of the note being played, we see oscillation and / or noise added to the tracked signal. This also seems as expected, as the string loses energy it is easy to imagine its oscillation as becoming more chaotic or less stable.
 
 ## Conclusion
 
